@@ -1,0 +1,10 @@
+The weather in Mumbai, India is 29.0 degrees
+The weather in Holon, Israel is 13.0 degrees
+The weather in London, United Kingdom is 10.0 degrees
+The weather in New York, United States of America is 1.1 degrees
+The weather in Tel Aviv, Israel is 13.0 degrees
+The weather in Eilat, Israel is 15.3 degrees
+The weather in Bangkok, Thailand is 30.0 degrees
+The weather in Cairo, Egypt is 16.0 degrees
+The weather in Paris, France is 12.0 degrees
+The weather in Melbourn, Australia is 16.0 degrees
