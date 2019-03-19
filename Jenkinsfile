@@ -3,6 +3,10 @@ node('slave1'){
     stage('Printing hello world'){
         sh 'echo "Hello World"'
     }
+    {
+        stage('fail'){
+        sh 'exit1'
+        
 
     stage('deploy ok'){
         sh 'echo "deploy ok"'        
