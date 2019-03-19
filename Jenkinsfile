@@ -4,7 +4,7 @@ node('slave1'){
         sh 'echo "Hello World"'
     }
 
-    stage('Printing hello world'){
+    stage('deploy ok'){
         sh 'echo "deploy ok"'        
     }
 }
