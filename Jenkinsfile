@@ -4,9 +4,9 @@ node('slave1'){
         sh 'echo "Hello World"'
     }
     {
-        stage('fail'){
+    stage('fail'){
         sh 'exit 1'
-        
+    }    
 
     stage('deploy ok'){
         sh 'echo "deploy ok"'        
