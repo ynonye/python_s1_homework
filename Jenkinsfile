@@ -3,7 +3,7 @@ node('slave1'){
     stage('Printing hello world'){
         sh 'echo "Hello World"'
     }
-    {
+    
     stage('fail'){
         sh 'exit 1'
     }    
