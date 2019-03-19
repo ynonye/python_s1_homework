@@ -7,7 +7,6 @@ node('slave1'){
     stage('fail'){
         sh 'exit 1'
     }    
-
     stage('deploy ok'){
         sh 'echo "deploy ok"'        
     }
